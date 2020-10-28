@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bem-vindo(a)!
+### Olá👋, meu nome é Evelyn Francisco Brandão e... muito bem-vindo(a) ao meu GitHub 😄
+
+Os repositorios que aqui estão serviram para aperfeiçoar minhas habilidades e aumentar meus conhecimentos. 
+
+Mas ainda tenho **muito** o que aprender, então ficarei muito feliz com qualquer feedback e sujestão para melhorar meu código 😄. Afinal, na maioria dos repositorios que estão aqui eu trabalhei em conjunto com outra(s) pessoa(s)... a união faz a força. 
+
 
 <!--
 **EvelynGitHub/EvelynGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
