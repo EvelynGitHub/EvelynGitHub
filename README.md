@@ -3,7 +3,7 @@
 
 Os repositorios que aqui estão serviram para aperfeiçoar minhas habilidades e aumentar meus conhecimentos. 
 
-Mas ainda tenho **muito** o que aprender, então ficarei muito feliz com qualquer feedback e sujestão para melhorar meu código 😄. Afinal, na maioria dos repositorios que estão aqui eu trabalhei em conjunto com outra(s) pessoa(s)... a união faz a força. 
+Mas ainda não sou nenhuma Senior, tenho **muito** o que aprender, então ficarei muito feliz com qualquer feedback e sujestão para melhorar meu código 😄. Afinal, na maioria dos repositorios que estão aqui eu trabalhei em conjunto com outra(s) pessoa(s)... a união faz a força. 
 
 #### ⚡ Mais informações
 ![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=EvelynGitHub&show_icons=true&count_private=true&show_icons=true)
